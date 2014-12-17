@@ -1,5 +1,9 @@
 # Ember-cli-jqui
 
+[![Build Status](https://travis-ci.org/vsymguysung/ember-cli-jqui.svg)](http://travis-ci.org/vsymguysung/ember-cli-jqui)
+[![NPM Downlaads](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.org/package/ember-cli-jqui)
+
+
 A simple addon to add jquery-ui as a dependency to your app. Also includes a small library of components wrapping JQuery UI widgets.
 
 
