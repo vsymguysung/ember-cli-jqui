@@ -1,4 +1,4 @@
 import Ember from 'ember';
-import jquiButton from 'ember-cli-jquery-ui/components/jqui-button/component';
+import jquiButton from 'ember-cli-jqui/components/jqui-button';
 
 export default jquiButton;

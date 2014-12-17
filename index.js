@@ -14,7 +14,7 @@ module.exports = {
   included: function(app) {
     this._super.included(app);
 
-    var options = app.options['ember-cli-jquery-ui'] || {};
+    var options = app.options['ember-cli-jqui'] || {};
     var theme = options.theme || "base";
 
     app.import(path.join(app.bowerDirectory, 'jquery-ui', 'jquery-ui.js'));

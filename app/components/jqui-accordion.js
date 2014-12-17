@@ -1,4 +1,4 @@
 import Ember from 'ember';
-import jquiAccordion from 'ember-cli-jquery-ui/components/jqui-accordion/component';
+import jquiAccordion from 'ember-cli-jqui/components/jqui-accordion';
 
 export default jquiAccordion;

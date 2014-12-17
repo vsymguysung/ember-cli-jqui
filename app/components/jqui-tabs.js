@@ -1,4 +1,4 @@
 import Ember from 'ember';
-import jquiTabs from 'ember-cli-jquery-ui/components/jqui-tabs/component';
+import jquiTabs from 'ember-cli-jqui/components/jqui-tabs';
 
 export default jquiTabs;
